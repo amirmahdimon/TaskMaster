@@ -19,3 +19,9 @@ samples, guidance on mobile development, and a full API reference.
 - open vscode or any library you have 
 - in windows (ctrl+shift+p) to accses command and search new flutter project
 - you need to download this project and then copy [lib-android-images] to replace in our project.
+ 
+#### Run in Chrome or any browser 
+You need run main.dart and now you have accses to this project
+
+##### Social Media 
+- YouTube
