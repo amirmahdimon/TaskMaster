@@ -1,6 +1,6 @@
 # todolist
 
-A new Flutter project.
+A new To-Do flutter aplications.
 
 ## Getting Started
 
@@ -14,3 +14,8 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+### Create new flutter project
+- open vscode or any library you have 
+- in windows (ctrl+shift+p) to accses command and search new flutter project
+- you need to download this project and then copy [lib-android-images] to replace in our project.
