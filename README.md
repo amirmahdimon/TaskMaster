@@ -7,8 +7,7 @@ Hello dear friends, Taskmaster is one of my newest projects that I have worked h
 
 ## Package I Use in this App 
 dependencies:
--  flutter:
--    sdk: flutter
+
 -  font_awesome_flutter: ^10.5.0
 - cupertino_icons: ^1.0.2
 -  hive_flutter: ^1.1.0
