@@ -1,6 +1,18 @@
-# todolist
+# todolist(TaskMaster)
 
 A new To-Do flutter aplications.
+
+## Intro 
+Hello dear friends, Taskmaster is one of my newest projects that I have worked hard on. I know it is a beginner program but I think it is very useful. As one of my achievements in my resume, I had to publish such an app.
+
+## Package I Use in this App 
+dependencies:
+  flutter:
+    sdk: flutter
+  font_awesome_flutter: ^10.5.0
+  cupertino_icons: ^1.0.2
+  hive_flutter: ^1.1.0
+  flutter_slidable: ^2.0.0
 
 ## Getting Started
 
